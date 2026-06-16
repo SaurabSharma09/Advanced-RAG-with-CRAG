@@ -382,7 +382,7 @@ MCA - GGSIPU, New Delhi
 
 *Working at the intersection of LLM engineering, agentic pipelines, and production RAG systems.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/saurab-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saurabsharma/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/saurab-sharma)
 
 ---
